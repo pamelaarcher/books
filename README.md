@@ -4,7 +4,6 @@
 
 - [Description](#description)
 - [How to Run the Application](#about)
-- [Future Improvements](#future-mprovement)
 - [License](#license)
 - [Demo](#demo)
 

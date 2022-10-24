@@ -39,4 +39,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Demo
 
-* [TicTacToe Demo](https://pamelaarcher.github.io/tictactoe)
+* [TicTacToe Demo](https://pamelaarcher.github.io/books)

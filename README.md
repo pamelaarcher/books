@@ -16,7 +16,7 @@ This is a simple web application which pulls in book data from a JSON file and d
 ### About
 This application is made up of 3 main files
   - <b>styles.css</b> which includes the styles for the book cards
-  - <b>index.html</b> which includes the linked css and js source libraries.
+  - <b>books.html</b> which includes the linked css and js source libraries.
   - <b>books.js</b> contains the web component Book which is defined as a custom element 'ele-book'.
   - <b>main.js</b> Fetches card data from the books.json file and stores in an array.  This data is then displayed using the ele-book custom card element. One card is created for each book.
 
@@ -39,4 +39,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Demo
 
-* [TicTacToe Demo](https://pamelaarcher.github.io/books)
+* [Books Demo](https://pamelaarcher.github.io/books/books.html)
